@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @str3ngth
+- 👋 Hi, I’m  Kilometer Immorales
 - 👀 I’m interested in gaming, coding, and a streaming
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on some major discord projects
